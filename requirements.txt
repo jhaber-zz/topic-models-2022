@@ -16,6 +16,6 @@ scikit_learn==1.0.2
 scipy==1.7.3
 sklearn==0.0
 smart-open==5.2.1
-tmtoolkit==0.11.1
+tmtoolkit==0.10.0
 wordcloud==1.8.1
 xlrd==2.0.1
