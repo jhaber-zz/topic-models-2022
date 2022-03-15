@@ -1,7 +1,7 @@
 # Topic Models: A Practical Introduction in Python
 ## A workshop with the [Massive Data Institute](https://mccourt.georgetown.edu/research/the-massive-data-institute/), Georgetown University
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhaber-zz/topic-models-2022/HEAD))
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jhaber-zz/topic-models-2022/HEAD)
 
 
 ## Overview
