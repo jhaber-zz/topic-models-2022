@@ -49,10 +49,20 @@ The main libraries used in this repository are:
 
 For simplicity, just click the "Launch Binder" button to create a virtual environment ready for this workshop. 
 
-If you want to run the code on your computer, you have two options. You could use [Anaconda](https://www.anaconda.com/what-is-anaconda/) to make installation easy: [download Anaconda](https://www.anaconda.com/download/) . Or if you already have Python 3.x installed with the full list of libraries listed under `requirements.txt`, you're welcome to clone this repository and follow along on your own machine. You can also install all the necessary packages like so: 
+If you want to run the code on your computer, you have two options. You could use [Anaconda](https://www.anaconda.com/what-is-anaconda/) to make installation easy: [download Anaconda](https://www.anaconda.com/download/). 
+
+The other option is to clone this repository, install all the libraries locally, and work along on your own machine. If you already have Python 3.x installed with the full list of libraries listed under `requirements.txt`, you may be ready to go. But I suggest creating a virtual environment to keep all the dependencies contained. To do that, run these commands:
 
 ```
+# Create virtual environment named '.TM-env'
+python3 -m venv .TM-env
+source .TM-env/bin/activate
+
+# Install dependencies, from inside cloned repo folder
 pip3 install -r requirements.txt
+
+# When done, deactivate virtual environment
+deactivate
 ```
 
 
