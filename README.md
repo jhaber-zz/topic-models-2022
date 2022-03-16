@@ -82,6 +82,7 @@ _In-depth:_
 * [NLP course & scripts, for social scientists & digital humanists (Laura Nelson)](https://github.com/lknelson/text-analysis-course)
 * [Great book on Python (with exercises): “Python for Everybody” (Charles Severance)](https://www.py4e.com/book.php)
 * [Python Programming for the Digital Humanities (Folgert Karsdorp)](http://www.karsdorp.io/python-course/)
+* [Topic model evaluation in Python with `tmtoolkit` (Markus Konrad)](https://datascience.blog.wzb.eu/2017/11/09/topic-modeling-evaluation-in-python-with-tmtoolkit/)
 * [Jupyter notebooks on Literary Text Analysis (Stéfan Sinclair)](https://github.com/sgsinclair/alta/blob/master/ipynb/ArtOfLiteraryTextAnalysis.ipynb)
 
 _Resource collections:_
